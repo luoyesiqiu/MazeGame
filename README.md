@@ -4,4 +4,4 @@
 
 ## 截图
 
-[!截图](/screenshot/main.png)
+![截图](/screenshot/main.png)
